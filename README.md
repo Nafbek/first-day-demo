@@ -1,2 +1,2 @@
 # first-day-demo
-This is repository is for solving puzzle
+This is a repository for solving puzzle
